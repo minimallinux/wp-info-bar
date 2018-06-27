@@ -1,0 +1,32 @@
+/*Info Bar */
+.info-bar {
+	padding-left: 20px;
+	padding-right: 20px;
+    background: #1e1e1e!important;
+    position: relative;
+    font-size: 14px;
+    height: 40px;
+}
+.info-bar a {
+padding-left: 5px;
+padding-right: 5px;
+color: #cccccc;
+}
+.info-bar .right-section,
+.info-bar .left-section {
+padding-top: 8px;
+}
+.info-bar .right-section {
+    float: right;
+}
+.info-bar .left-section {
+    float: left;
+}
+/*.menu-top-menu-container {
+list-style-type: none;
+list-style: none;
+list-style-image: none;
+}
+.menu-top-menu-container li {
+display: inline;
+}
