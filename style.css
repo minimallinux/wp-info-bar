@@ -1,8 +1,7 @@
 /*Info Bar */
-/*These are all standard manually added a tags content is adjusted in header php to whatever you want., not dynamic, shouldnt need to change these.*/
+/*These are all standard manually added a tags content is adjusted in header php to whatever you want, not dynamic, shouldnt need to change these.*/
+/*Info Bar */
 .info-bar {
-    padding-left: 20px;
-    padding-right: 20px;
     background: #1e1e1e!important;
     position: relative;
     font-size: 14px;
@@ -18,10 +17,20 @@ color: #cccccc;
 padding-top: 8px;
 }
 .info-bar .right-section {
-    float: right;
+    
+    float: none;
 }
 .info-bar .left-section {
     float: left;
+}
+.contact-icons {
+position:relative;
+left: 20px;
+}
+.top-social {
+ position:absolute;
+   top:8px;
+   right:20px;
 }
 /*Change these to suit your classes, these were mine*/
 .menu-top-menu-container ul {

@@ -6,7 +6,7 @@ Universal Info Bar for Wordpress.
 
 Insert html code in to header.php and adjust to suit. Has a utility nav menu on left for extra items.
 Social icons on right and contact info in middle. (still in the right section)
-Can be used for any theme.
+Can be used for any theme. Gets info bar set up and allow for a bit of tweaking.
 Basic styles attached. See screenshot.
 
 ## App Info
